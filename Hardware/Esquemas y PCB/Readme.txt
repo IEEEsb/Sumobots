@@ -1,0 +1,1 @@
+Abrir con EAGLE versión 6.00 o superior
